@@ -58,6 +58,6 @@ public class updown : MonoBehaviour
 }
 ```
 ## Output:
-
+![inp](3.jpg)
 ## Result:
 A rotating object has been created in Unity Hub witn C# program.
